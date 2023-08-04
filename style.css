@@ -1,0 +1,16 @@
+body
+{
+text-align:center;
+}
+h1
+{
+font-size:40px;
+font-family:unset;
+}
+.line
+{
+height:6px;
+background-color:lightsalmon;
+width:70px;
+margin:8px auto;
+}
